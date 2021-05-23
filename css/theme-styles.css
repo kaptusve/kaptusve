@@ -296,7 +296,7 @@ input, textarea {
   -moz-box-shadow: none;
   box-shadow: none; }
   input:invalid, textarea:invalid {
-    border: 1px solid #ff00004d; }
+    border: 1px solid #000000; }
   input:-moz-submit-invalid, textarea:-moz-submit-invalid {
     box-shadow: none; }
   input.wpcf7-form-control, textarea.wpcf7-form-control {
@@ -341,16 +341,16 @@ ul {
     padding-left: 60px; }
 
 .list--standard i, .list--standard .utouch-icon {
-  color: #1b1f3b;
-  fill: #1b1f3b; }
+  color: #000000;
+  fill: #000000; }
 
 .list--standard a:hover {
-  color: #1b1f3b;
-  fill: #1b1f3b; }
+  color: #000000;
+  fill: #000000; }
 
 .list--breez li i, .list--breez li .utouch-icon {
-  color: #1b1f3b;
-  fill: #1b1f3b;
+  color: #000000;
+  fill: #000000;
   height: 32px;
   width: 32px;
   margin-top: 0; }
@@ -359,12 +359,12 @@ ul {
   color: #00ffff; }
 
 .list--primary i, .list--primary .utouch-icon {
-  color: #1b1f3b;
-  fill: #1b1f3b; }
+  color: #000000;
+  fill: #000000; }
 
 .list--primary a:hover {
-  color: #1b1f3b;
-  fill: #1b1f3b; }
+  color: #000000;
+  fill: #000000; }
 
 ol {
   counter-reset: list1;
@@ -484,7 +484,7 @@ blockquote {
     font-weight: 400;
     color: #6a87a9; }
     blockquote h6 span {
-      color: #1b1f3b;
+      color: #000000;
       font-weight: 700;
       display: block; }
   blockquote cite {
@@ -724,7 +724,7 @@ h6, .h6 {
   font-size: 30px;
   color: #fff;
   text-align: center;
-  background-color: #1b1f3b; }
+  background-color: #000000; }
 
 .first-letter--dark span:first-of-type {
   margin-right: 20px;
@@ -734,7 +734,7 @@ h6, .h6 {
   float: left; }
 
 .first-letter--primary span:first-of-type {
-  color: #1b1f3b;
+  color: #000000;
   margin-right: 20px;
   font-size: 48px;
   line-height: 48px;
@@ -1606,10 +1606,10 @@ body.crumina-grid .kc_col-of-5 {
   color: inherit; }
 
 .bg-secondary-color {
-  background-color: #1b1f3b; }
+  background-color: #000000; }
 
 .bg-primary-color {
-  background-color: #1b1f3b; }
+  background-color: #000000; }
 
 .c-yellow-light {
   color: #ffff00; }
@@ -4441,7 +4441,7 @@ textarea {
       top: 4px;
       position: relative; }
   .nav-add:hover .utouch-icon {
-    fill: #1b1f3b; }
+    fill: #000000; }
 
 .header-spacer {
   position: relative;
@@ -4493,7 +4493,7 @@ textarea {
   .header--dark .logo-title {
     color: #fff; }
   .header--dark .logo-sub-title {
-    color: #1b1f3b; }
+    color: #000000; }
   .header--dark .mob-menu--title {
     color: #fff; }
 
@@ -5125,7 +5125,7 @@ License: http://codecanyon.net/licenses
 .primary-menu-menu > li:hover,
 .primary-menu-menu > li.current-menu-item a,
 .primary-menu-menu > li.current-menu-item {
-  color: #1b1f3b; }
+  color: #000000; }
 
 .primary-menu-menu > li:before {
   content: '';
@@ -5171,7 +5171,7 @@ License: http://codecanyon.net/licenses
   box-shadow: 10px 0 50px rgba(18, 25, 33, 0.1);
   list-style: none;
   display: none;
-  border-top: 4px solid #1b1f3b;
+  border-top: 4px solid #000000;
   margin-bottom: 0; }
 
 @media (max-width: 768px) {
@@ -5295,11 +5295,11 @@ License: http://codecanyon.net/licenses
 .primary-menu-menu ul.sub-menu li:hover > a,
 .primary-menu-menu > li.menu-item-has-mega-menu .megamenu ul > li:hover a {
   transition: all .3s ease;
-  color: #1b1f3b; }
+  color: #000000; }
 
 .primary-menu-menu ul.sub-menu li:hover:before,
 .primary-menu-menu > li.menu-item-has-mega-menu .megamenu ul > li:hover:before {
-  background-color: #1b1f3b; }
+  background-color: #000000; }
 
 /* Dropdown left alignment */
 .primary-menu-menu ul.sub-menu.sub-menu-left {
@@ -5337,7 +5337,7 @@ License: http://codecanyon.net/licenses
   background-repeat: no-repeat;
   box-shadow: 10px 0 50px rgba(18, 25, 33, 0.1);
   border-radius: 4px 4px 10px 10px;
-  border-top: 4px solid #1b1f3b; }
+  border-top: 4px solid #000000; }
 
 .primary-menu-menu > li > .megamenu ul {
   list-style: none;
@@ -5657,31 +5657,31 @@ License: http://codecanyon.net/licenses
 .primary-menu.blue .primary-menu-menu > li.active > a,
 .primary-menu.blue .primary-menu-menu > li:hover > a,
 .primary-menu.blue .primary-menu-menu ul.sub-menu li:hover > a {
-  color: #1b1f3b; }
+  color: #000000; }
 
 /* green */
 .primary-menu.green .primary-menu-menu > li.active > a,
 .primary-menu.green .primary-menu-menu > li:hover > a,
 .primary-menu.green .primary-menu-menu ul.sub-menu li:hover > a {
-  color: #1b1f3b; }
+  color: #000000; }
 
 /* red */
 .primary-menu.red .primary-menu-menu > li.active > a,
 .primary-menu.red .primary-menu-menu > li:hover > a,
 .primary-menu.red .primary-menu-menu ul.sub-menu li:hover > a {
-  color: #E9573F; }
+  color: #000000; }
 
 /* orange */
 .primary-menu.orange .primary-menu-menu > li.active > a,
 .primary-menu.orange .primary-menu-menu > li:hover > a,
 .primary-menu.orange .primary-menu-menu ul.sub-menu li:hover > a {
-  color: #ff670f; }
+  color: #000000; }
 
 /* yellow */
 .primary-menu.yellow .primary-menu-menu > li.active > a,
 .primary-menu.yellow .primary-menu-menu > li:hover > a,
 .primary-menu.yellow .primary-menu-menu ul.sub-menu li:hover > a {
-  color: #F6BB42; }
+  color: #000000; }
 
 /* purple */
 .primary-menu.purple .primary-menu-menu > li.active > a,
@@ -5812,7 +5812,7 @@ License: http://codecanyon.net/licenses
     transform: rotate(90deg);
     border-left: none; }
   .primary-menu-menu > li:hover > a .indicator, .primary-menu-menu > li:hover .indicator {
-    color: #1b1f3b; }
+    color: #000000; }
   /* Megamenu */
   .primary-menu-responsive .primary-menu-menu > li > .megamenu {
     width: 100% !important;
@@ -6238,9 +6238,9 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     display: inline-block;
     vertical-align: middle; }
   .more-arrow:hover {
-    color: #1b1f3b; }
+    color: #000000; }
     .more-arrow:hover .btn-next .utouch-icon {
-      fill: #1b1f3b; }
+      fill: #000000; }
     .more-arrow:hover .btn-next {
       margin-left: 5px;
       margin-right: -5px; }
@@ -6314,7 +6314,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
 
 .primary-menu--dark .primary-menu-menu ul.sub-menu li:hover:before,
 .primary-menu--dark .primary-menu-menu > li.menu-item-has-mega-menu .megamenu ul > li:hover:before {
-  background-color: #1b1f3b; }
+  background-color: #000000; }
 
 .primary-menu--dark .product-item:hover {
   background-color: #0f141a; }
@@ -6328,7 +6328,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
   color: #839dbc; }
   .primary-menu--dark .primary-menu-menu > li.menu-item-has-mega-menu .megamenu ul > li a:hover,
   .primary-menu--dark .primary-menu-menu ul.sub-menu li a:hover {
-    color: #1b1f3b; }
+    color: #000000; }
 
 .primary-menu--dark .megamenu-item-info-text {
   color: #4b5d73; }
@@ -6384,10 +6384,10 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
   .breadcrumbs-item a {
     margin-right: 6px; }
     .breadcrumbs-item a:hover {
-      color: #1b1f3b; }
+      color: #000000; }
   .breadcrumbs-item.active span {
     font-weight: 700;
-    color: #1b1f3b; }
+    color: #000000; }
   .breadcrumbs-item .utouch-icon {
     margin-right: 6px;
     fill: #d1e8f6;
@@ -6409,7 +6409,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
   border-radius: 30px;
   padding: 6px 30px; }
   .breadcrumbs--bordered .breadcrumbs-item a {
-    color: #1b1f3b; }
+    color: #000000; }
   .breadcrumbs--bordered .breadcrumbs-item.active span {
     color: #fff; }
 
@@ -6631,7 +6631,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     background-color: transparent;
     font-size: 13px;
     margin-bottom: 0;
-    color: #1b1f3b;
+    color: #000000;
     width: auto;
     min-width: 110px;
     box-shadow: none;
@@ -6686,7 +6686,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
       line-height: 1;
       color: #4b5d73; }
   .top-bar a:hover {
-    color: #1b1f3b; }
+    color: #000000; }
   .top-bar span {
     color: #6987ab; }
   .top-bar .follow_us {
@@ -6715,7 +6715,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     width: 15px;
     height: 15px; }
     .top-bar-close .utouch-icon:hover {
-      fill: #1b1f3b; }
+      fill: #000000; }
 
 .top-bar-dark {
   background-color: #151414;
@@ -6760,7 +6760,7 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     transform: rotate(180deg);
     transition: all .3s ease; }
   .top-bar-link:hover .utouch-icon {
-    fill: #1b1f3b; }
+    fill: #000000; }
 
 /*================= Responsive Mode ============*/
 @media (max-width: 1200px) {
@@ -6849,9 +6849,9 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
   .sub-footer a {
     color: #4b5d73; }
     .sub-footer a:hover {
-      color: #1b1f3b; }
+      color: #000000; }
   .sub-footer .sub-footer__link {
-    color: #1b1f3b;
+    color: #000000;
     font-weight: 700; }
 
 .content-wrapper {

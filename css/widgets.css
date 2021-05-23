@@ -16,7 +16,7 @@
 
 .w-info .logo-title {
   margin-right: 20px;
-  color: #1b1f3b;
+  color: #000000;
   font-size: 45px;
 }
 
@@ -31,7 +31,7 @@
   font-weight: 700;
 }
 .w-info .learn-more:hover {
-  color: #1b1f3b;
+  color: #000000;
 }
 
 .widget-title {
@@ -61,7 +61,7 @@
   opacity: 1;
 }
 .w-list .list li:hover a {
-  color: #1b1f3b;
+  color: #000000;
   margin-left: 8px;
 }
 .w-list .list li .utouch-icon {
@@ -98,8 +98,8 @@
   width: 14px;
 }
 .w-follow .utouch-icon:hover {
-  color: #1b1f3b;
-  fill: #1b1f3b;
+  color: #000000;
+  fill: #000000;
 }
 
 svg.utouch-icon {
@@ -125,7 +125,7 @@ svg.utouch-icon {
 }
 
 .w-contacts a.info:hover {
-  color: #1b1f3b;
+  color: #000000;
 }
 
 .contact-item {
@@ -134,8 +134,8 @@ svg.utouch-icon {
 .contact-item .utouch-icon {
   height: 18px;
   width: 18px;
-  color: #1b1f3b;
-  fill: #1b1f3b;
+  color: #000000;
+  fill: #000000;
   margin-right: 10px;
 }
 
@@ -204,7 +204,7 @@ svg.utouch-icon {
   margin-bottom: 20px;
 }
 .location-details a:hover {
-  color: #1b1f3b;
+  color: #000000;
 }
 
 /*================= Responsive Mode ============*/
@@ -286,14 +286,14 @@ svg.utouch-icon {
   border-radius: 3px 3px 0 0;
 }
 .w-category .category-list li:hover a {
-  color: #1b1f3b;
+  color: #000000;
 }
 .w-category .category-list li:hover a:before {
-  background-color: #1b1f3b;
+  background-color: #000000;
 }
 .w-category .category-list li:hover .cat-count {
   color: #fff;
-  background-color: #1b1f3b;
+  background-color: #000000;
 }
 
 .w-category .cat-count {
@@ -347,9 +347,9 @@ svg.utouch-icon {
   line-height: 1;
 }
 .w-tags a:hover {
-  background-color: #1b1f3b;
+  background-color: #000000;
   color: #fff;
-  border-color: #1b1f3b;
+  border-color: #000000;
   box-shadow: 10px 0 30px rgba(0, 131, 255, 0.3);
 }
 
@@ -454,7 +454,7 @@ svg.utouch-icon {
   width: 0;
   height: 3px;
   border-radius: 3px;
-  background-color: #1b1f3b;
+  background-color: #000000;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -465,7 +465,7 @@ svg.utouch-icon {
   margin-left: 30px;
 }
 .tab-control.active a {
-  color: #1b1f3b;
+  color: #000000;
 }
 .tab-control.active a:after {
   opacity: 1;
